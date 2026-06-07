@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avankha Barlian Kabuchi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Toko Bung Edi](https://tokobungedi.vercel.app)
-
-- 👯 I’m looking to collaborate on [Jawa Hair Studio](https://jawahairstudio-nu.vercel.app)
+- 👯 I’m looking to collaborate on [Jawa Hair Studio](https://jawahairstudio-nu.vercel.app) and [Toko Bung Edi](https://tokobungedi.vercel.app)
 
 
 <h3 align="left">Languages and Tools:</h3>
