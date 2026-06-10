@@ -94,7 +94,7 @@ const avan: Developer = {
 
 | Platform | Handle | Link |
 |:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/> | avankha barlian kabuchi | [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avankabuchi_) |
+| <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/> | @avankabuch_ | [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avankabuchi_) |
 | <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/> | @avankabuchi | [![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avankabuchi) |
 | <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> | @avankabuchi_ | [![Instagram](https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/avankabuchi_) |
 | <img src="https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/> | @avankabuchi_ | [![TikTok](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@avankabuchi_) |
