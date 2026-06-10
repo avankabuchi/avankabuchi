@@ -278,21 +278,6 @@ Content Creation       ███████████████████
 
 ---
 
-<!-- ══════════════════════ SNAKE ══════════════════════ -->
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avankabuchi/avankabuchi/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avankabuchi/avankabuchi/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/avankabuchi/avankabuchi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
 
 <!-- ══════════════════════ RANDOM DEV QUOTE ══════════════════════ -->
 
@@ -306,19 +291,6 @@ Content Creation       ███████████████████
 
 ---
 
-<!-- ══════════════════════ CURRENTLY VIBING ══════════════════════ -->
-
-## 🎧 &nbsp;Currently Vibing To
-
-<div align="center">
-
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=avankabuchi_&count=3&unique=true)](https://open.spotify.com/search/Avan%20Kabuchi)
-
-> *Stream my music on Spotify & Apple Music — search **Avan Kabuchi***
-
-</div>
-
----
 
 <!-- ══════════════════════ SUPPORT ══════════════════════ -->
 
