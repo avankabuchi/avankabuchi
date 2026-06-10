@@ -55,7 +55,7 @@ const avan: Developer = {
   currentlyBuilding: [
     "Jawa Hair Studio  → jawahairstudio-nu.vercel.app",
     "Toko Bung Edi     → tokobungedi.vercel.app",
-    "Portfolio OS v2.0 → avankabuchi.vercel.app",
+    "Portfolio OS v2.0 → portofolioavan.vercel.app",
   ],
 
   interests: [
